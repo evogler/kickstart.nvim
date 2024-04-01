@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/eric/.config/nvim'
+let g:netrw_dirhist_3='/Users/eric/.local/share/nvim/lazy/nvim-lspconfig'
+let g:netrw_dirhist_2='/Users/eric/.config/nvim'
+let g:netrw_dirhist_1='/usr/local/Cellar/neovim/0.9.4/share/nvim'
